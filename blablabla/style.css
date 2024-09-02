@@ -52,3 +52,19 @@ body{
 .descricao-titulo{
     margin: 40px;
 }
+.terciario-imagem{
+    width: 30%;
+    margin: -40px;
+
+}
+.container-terciario{
+    height: 100vh;
+    display: grid;
+    grid-template-columns:50% 50%;
+    margin: 230px;
+}
+.container-descricao{
+
+}
+    
+
