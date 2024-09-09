@@ -50,11 +50,11 @@ body{
 }
 
 .descricao-titulo{
-    margin: 40px;
+    margin: 50px;
 }
 .terciario-imagem{
-    width: 30%;
-    margin: -40px;
+    width: 60%;
+    margin: -50px;
 
 }
 .container-terciario{
@@ -63,8 +63,6 @@ body{
     grid-template-columns:50% 50%;
     margin: 230px;
 }
-.container-descricao{
 
-}
     
 
